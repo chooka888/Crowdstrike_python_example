@@ -1,5 +1,5 @@
 ##################################################################################################
-# 20200403 - Chook888
+# 20200403 - Chooka888
 # This script is a simple example showing how to authenticate to and call Crowdstrike's Oauth2 APIs.
 # Details of the API can be found in Crowdstrike Docs and https://assets.falcon.crowdstrike.com/support/api/swagger.html#
 # 
