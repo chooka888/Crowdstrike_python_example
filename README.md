@@ -1,7 +1,7 @@
 # Crowdstrike_python_example
 Simple example on how to authenticate and call Crowdstrike oauth2 apis
 
-I made this script because I couldn't find a simple example on how to call Crowdstrike in python and thought since I worked it out I would share.  
+I made this script because I couldn't find a simple example showing how to call Crowdstrike in python and thought it might be give people getting started a head start.   
 
 ###################################################################################################
 # This script is a simple example showing how to authenticate to and call Crowdstrike's Oauth2 APIs.
